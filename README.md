@@ -1,17 +1,17 @@
 # Computer-Vision
-Articles, papers, courses, videos, etc. related to computer vision(or not)
+Projects, papers, courses, videos, etc. related to computer vision(or not)
 
 ## Table of Contents
-- [Papers on **Computer Vision**](#computer-vision)
+- [Computer Vision](#computer-vision)
   - [Semantic Segmenation](#semantic-segmentation)
   - [Interactive Segmentation](#interactive-segmentation)
   - [Object Detection](#object-detection)
   - [Optical Character Recognition](#optical-character-recognition)
-- [Papers on **Machine Learning**](#machine-learning)
+- [Machine Learning](#machine-learning)
   - [Deep Learning](#deep-learning)
   - [Reinforcement Learning](#reinforcement-learning)
-- [Papers on **Computer Graphics**](#computer-graphics)
-- [Papers on **Human Computer Interactions**](#hci)
+- [Computer Graphics](#computer-graphics)
+- [Human Computer Interactions](#hci)
 
 ## Computer Vision
 ### Semantic Segmentation
