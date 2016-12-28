@@ -2,16 +2,16 @@
 Articles, papers, courses, videos, etc. related to computer vision(or not)
 
 ## Table of Contents
-- [Papers on computer vision](#Computer Vision)
-  - [Semantic Segmenation](#Semantic Segmentation)
-  - [Interactive Segmentation](#Interactive Segmentation)
-  - [Object Detection](#Object Detection)
-  - [Optical Character Recognition](#Optical Character Recognition)
-- [Papers on machine learning](#Machine Learning)
-  - [Deep Learning](#Deep Learning)
-  - [Reinforcement Learning](#Reinforcement Learning)
-- [Papers on computer graphics](#Computer Graphics)
-- [Papers on human computer interactions](#HCI)
+- [Papers on **Computer Vision**](#computer-vision)
+  - [Semantic Segmenation](#semantic-segmentation)
+  - [Interactive Segmentation](#interactive-segmentation)
+  - [Object Detection](#object-detection)
+  - [Optical Character Recognition](#optical-character-recognition)
+- [Papers on **Machine Learning**](#machine-learning)
+  - [Deep Learning](#deep-learning)
+  - [Reinforcement Learning](#reinforcement-learning)
+- [Papers on **Computer Graphics**](#computer-graphics)
+- [Papers on **Human Computer Interactions**](#hci)
 
 ## Computer Vision
 **Semantic Segmentation**
